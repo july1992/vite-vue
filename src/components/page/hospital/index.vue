@@ -1,5 +1,7 @@
 <template>
-bottom bottom bottom bottom bottom
+
+
+    医院详情
 
 </template>
 

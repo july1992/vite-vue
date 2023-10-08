@@ -1,5 +1,8 @@
 <template>
-bottom bottom bottom bottom bottom
+
+<div class="content"> 
+    产品的 的 的
+</div>
 
 </template>
 
@@ -10,4 +13,7 @@ bottom bottom bottom bottom bottom
 <style scoped lang="scss">
 
 
+.content{
+    margin-top:70px;
+}
 </style>
