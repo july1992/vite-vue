@@ -90,12 +90,6 @@ import '~bootstrap/scss/bootstrap.scss'
 npm install vue-router@4
 ```
 
-
-
-
-
-
-
 构建部署
 ```
 npm run build

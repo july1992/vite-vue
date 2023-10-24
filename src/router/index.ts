@@ -25,7 +25,7 @@ export default createRouter({
         },
         {
             path:'/product',
-            component:() => import('@/components/page/product/index.vue'),
+            component:() => import('@/components/main/product/index.vue'),
             meta:{
                 title:'产品'
             }
